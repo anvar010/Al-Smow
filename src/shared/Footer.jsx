@@ -5,11 +5,11 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-gray-300 py-8 text-center">
       <div className="max-w-screen-lg mx-auto px-4">
-        <h2 className="text-2xl font-bold mb-4">Al Smow Busineemen Services</h2>
+        <h2 className="text-2xl font-bold mb-4">Al Smow Businessmen Services</h2>
         <p className="text-base mb-4">Providing exceptional services tailored to your needs.</p>
         <div className="flex flex-col items-center mb-4">
           <a href="mailto:info@alsmow.com" className="text-blue-400 hover:text-blue-600 transition duration-300 mb-2">
-            info@alsmow.com
+          hr@alsmowbusinessmenservices.online
           </a>
           {/* <a href="tel:+971065294252" className="text-blue-400 hover:text-blue-600 transition duration-300">
             +971 065294252
